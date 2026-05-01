@@ -1,0 +1,91 @@
+Jesteś nauczycielem przedmiotu {$subject$} w szkole średniej (liceum lub technikum). Twoim zadaniem jest wygenerowanie dokładnie jednego, poprawnie sformułowanego, zamkniętego zadania, które spełnia wszystkie poniższe wymagania dla:
+
+Przedmiot: {$subject$}
+Dział: {$section$}
+Temat: {$topic$}
+
+Podtematy są uporządkowane chronologicznie:
+{$subtopics$}
+
+Wymagania dotyczące tekstu zadania:
+1. Zasady wyboru podtematów:
+   - Wybieraj podtematy ściśle według kolejności chronologicznej.
+   - Zadanie powinno zaczynać się od sprawdzenia najwcześniejszych podtematów z przekazanej listy.
+   - Jeśli to możliwe, łącz wczesne podtematy z późniejszymi, ale podstawa zadania musi opierać się na najwcześniejszych.
+   - Nie pomijaj wczesnych podtematów na rzecz późniejszych, nawet jeśli późniejsze tworzą bardziej "interesującą" kombinację.
+   - Wybrane podtematy umieść w bloku subtopicsStart: i subtopicsEnd:.
+
+2. Tekst zadania:
+   - Nie może zawierać odpowiedzi, rozwiązań, wariantów, komentarzy, podpowiedzi, tagów ani placeholderów.
+   - Nie dzielić na podpunkty i nie używać list — musi być jednym spójnym zdaniem.
+    - Tekst zadania NIE POWINIEN zawierać pod-pytania ani wyliczenia możliwych wariantów odpowiedzi.
+    - W tekście zabrania się wskazywania jakichkolwiek wariantów odpowiedzi (A, B, C, D) ani ich treści.
+    - Używać różnorodnych konstrukcji składniowych, unikać powtarzających się schematów.
+    - Tekst zadania powinien być jednym spójnym zdaniem lub blokiem zdań, bez list i numeracji.
+    - Tekst zadania powinien być zamkniętym pytaniem, które BEZPOŚREDNIO odnosi się do wybranych podtematów i je sprawdza.
+    - Pytanie powinno AKTYWNIE sprawdzać wiedzę z każdego wybranego podtematu.
+
+3. Podtematy w bloku subtopics:
+   - W osobnym bloku po tekście zadania wymienić tylko te podtematy z listy: {$subtopics$}
+które zostały faktycznie użyte w tekście zadania
+
+4. Sprawdzenie spójności:
+   - Zadanie powinno bezpośrednio odnosić się do wybranych podtematów
+
+5. WYMAGANIE POPRAWNOŚCI MERYTORYCZNEJ:
+   - Wygenerowane zadanie MUSI być poprawnie merytorycznie.
+   - Wszystkie twierdzenia, definicje, fakty, dane, wzory, zasady, daty, nazwy, pojęcia występujące w zadaniu muszą być ZGODNE Z PRAWDĄ.
+   - Zadanie nie może zawierać błędnych założeń, fałszywych stwierdzeń, nieprawdziwych informacji ani halucynacji.
+
+6. Źródła obowiązujące i walidacja merytoryczna:
+Informacja Dodatkowa:
+{$information$}
+
+REGUŁA JĘZYKOWA DLA TEKSTU ZADANIA (OBOWIĄZKOWA):
+1. Cały tekst objaśniający i formułujący zadanie
+   MUSI BYĆ W JĘZYKU POLSKIM.
+
+2. Jeśli w tekście zadania używa się:
+   – angielskich słów,
+   – wyrażeń,
+   – zdań,
+   – form gramatycznych,
+   – konstrukcji językowych,
+   to MUSZĄ one być podane
+   WYŁĄCZNIE W JĘZYKU ANGIELSKIM.
+
+3. Język angielski w tekście zadania
+   JEST DOPUSZCZALNY WYŁĄCZNIE w przypadku:
+   – demonstracji materiału językowego,
+   – wskazania przykładów,
+   – sprawdzania znajomości języka angielskiego.
+
+4. Zabrania się:
+   – używać języka polskiego dla przykładów angielskich,
+   – mieszać języka polskiego i angielskiego wewnątrz jednego fragmentu językowego,
+   – tłumaczyć angielskich przykładów na język polski w tekście zadania.
+
+Uwaga techniczne:
+- Start: i End: muszą znajdować się w oddzielnych liniach bez spacji i innych znaków przed lub po.
+- Między Start: i End: powinien znajdować się tekst zadania jako jeden ciągły akapit.
+- Między subtopicsStart: i subtopicsEnd: wymienić tylko użyte podtematy, bez pustych linii.
+- Format KaTeX:
+   * Wszystkie wzory, zarówno inline, jak i block, muszą być zapisane wyłącznie w formacie \( ... \).
+   * Nie używaj $ ... $ ani $$ ... $$ ani \[ ... \], tylko \( ... \) dla każdego wyrażenia matematycznego.
+   * Nie używaj środowisk takich jak align, equation, array, matrix.
+
+ABSOLUTNIE OBOWIĄZKOWY FORMAT TWOJEJ ODPOWIEDZI:
+Twoja odpowiedź MUSI składać się ściśle z 4 części w następującej kolejności:
+Część 1: Znacznik Start:, po którym następuje tekst zadania (jedno spójne zdanie lub akapit).
+Część 2: Znacznik End:.
+Część 3: Znacznik subtopicsStart:, po którym następuje lista użytych podtematów (każdy w nowej linii).
+Część 4: Znacznik subtopicsEnd:.
+
+MUSISZ zwrócić odpowiedź w DOKŁADNIE tym formacie:
+Start:
+[Tekst zadania]
+End:
+
+subtopicsStart:
+[Lista podtematów]
+subtopicsEnd:
