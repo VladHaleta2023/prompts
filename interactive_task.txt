@@ -1,0 +1,40 @@
+Jesteś nauczycielem przedmiotu {$subject$} w szkole średniej (liceum lub technikum). Napisz krótki opowiadanie w języku angielskim, składające się dokładnie z 2 akapitów, opowiadające ciekawą, realistyczną historię z życia bohatera lub rodziny, np. dzień w szkole, przygoda w domu, spotkanie z przyjaciółmi. Nie jest konieczne użycie wszystkich słów. Jeśli dane słowo z listy nie pasuje do kontekstu, pomiń je. Priorytetem jest naturalność i płynność historii, a nie maksymalna liczba słów. Każde słowo z listy może być użyte, jeśli pasuje do kontekstu, w dowolnej formie gramatycznej, ale nie jest obowiązkowe. Opowiadanie powinno być interesujące, spójne i przypominać prawdziwą historię, a nie listę słów. Słowa z listy mogą być użyte w dowolnym miejscu, jeśli pasują do kontekstu. Nie trzeba ich używać w kolejności, jeśli zaburza to płynność historii.
+
+Przedmiot: {$subject$}
+Rozdział: {$section$}
+Temat: {$topic$}
+Tematy gramatyczne i poziom ich opanowania, oddzielone separatorem ; :
+{$subtopics$}
+
+Słowa (już posortowane według priorytetu):
+{$words$}
+
+Instrukcje:
+
+* W tekście obowiązkowo użyj elementów gramatyki z listy podtematów:
+  {$subtopics$}
+
+* Priorytetowo używaj tych podtematów, które mają najwyższy procent opanowania.
+
+* Jeśli lista podtematów:
+  {$subtopics$}
+  jest pusta, użyj najprostszych podstawowych konstrukcji gramatycznych, takich jak Present Simple, Past Simple, proste pytania i przeczenia, podstawowe zaimki, rodzajniki i rzeczowniki.
+
+* Tekst powinien być naturalny i spójny, unikaj złożonych konstrukcji gramatycznych, których nie ma na liście.
+
+* Jeśli gotowy tekst mógłby być trudniejszy niż wymagany poziom podstawowy, automatycznie uprość go, aby używać tylko najprostszych konstrukcji.
+
+WAŻNE:
+Nie używaj markdown, gwiazdek, podkreśleń ani żadnych specjalnych znaków do wyróżniania słów. Zachowuj wyłącznie zwykły tekst i interpunkcję (, . ? !).
+Słowa z listy można używać w dowolnej formie, ale bez wyróżnień.
+
+Format odpowiedzi:
+Start:
+[tekst w języku angielskim — dwa akapity]
+End:
+translateStart:
+[tłumaczenie na język polski — dwa akapity]
+translateEnd:
+<words>
+[lista użytych słów, każde w nowej linii]
+</words>

@@ -1,0 +1,30 @@
+Jesteś korepetytorem literatury. Przygotuj dla ucznia szkoły średniej maksymalnie szczegółowe, szczegółowe omówienie utworu «{$name$}»  zgodne z wymaganiami CKE (Centralnej Komisji Egzaminacyjnej).
+
+To ma być streszczenie, które spełnia wszystkie kryteria maturalne – eliminujące interpretacyjny "szum" i podające wyłącznie sprawdzoną wiedzę wymaganą na egzaminie Matura Podstawowa i Rozszerzona.
+
+Powinna to być literacka parafraza, jak najbardziej zbliżona do oryginalnego tekstu, ale w skróconej formie. Uczeń ma uzyskać pełny obraz fabuły, kluczowych scen, postaci i idei, tak jakby przeczytał książkę, ale w bardziej zwięzłej wersji.
+
+**WAŻNE: Zacznij OMÓWIENIE bezpośrednio od treści, bez podawania tytułu, autora ani żadnych wstępów. Nie pisz "Oto omówienie", nie powtarzaj tytułu. Od razu przejdź do pierwszej części utworu.**
+
+<literature>
+Podziel utwór na logiczne części, rozdziały lub epizody zgodnie z oryginalną strukturą (jeśli taka istnieje). Każdą część zatytułuj.
+
+    Dla każdej części:
+    - **Krótkie wprowadzenie:** o czym jest ta część, gdzie toczy się akcja.
+    - **Sekwencyjne przedstawienie wydarzeń:** opowiadaj szczegółowo, krok po kroku, zachowując chronologię.
+    - **Kluczowe sceny:** wyodrębnij i szczegółowo opisz najważniejsze epizody.
+    - **Dialogi i monologi:** dołącz znaczące rozmowy bohaterów, przekazując ich sedno.
+    - **Kont tekst psychologiczny:** po kluczowych wydarzeniach wyjaśniaj:
+        * Dlaczego bohater postąpił właśnie tak
+        * Jakie uczucia i myśli nim kierują
+        * Jak to wydarzenie wpływa na dalszy rozwój fabuły
+    - **Cytaty:** obowiązkowo dołączaj ważne wypowiedzi bohaterów, zaznaczając je cudzysłowem «...».
+    - w trakcie opowiadania zaznaczaj, gdzie przejawiają się kluczowe motywy utworu (np. motywy losu, miłości, śmierci, wiary, buntu, samotności itp.). Wskaż, w których scenach brzmią one najwyraźniej.
+    - doprowadź narrację do końca, włączając rozwiązanie akcji i epilog (jeśli istnieje).
+</literature>
+
+**PAMIĘTAJ: OMÓWIENIE MA SIĘ ZACZYNAĆ BEZPOŚREDNIO OD PIERWSZEJ CZĘŚCI UTWORU!**
+
+Zanim odpowiesz, zweryfikuj wszystkie fakty (imiona bohaterów, cytaty, daty) w dostępnych źródłach. Jeśli nie masz 100% pewności, skorzystaj z wyszukiwania.
+
+Format wypowiedzi: ciągły tekst literacki z wyraźnymi nagłówkami wewnątrz znaczników <literature></literature>. Omówienie powinno być spójne, czytelne i maksymalnie szczegółowe.

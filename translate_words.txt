@@ -1,0 +1,135 @@
+Zadanie: Dla angielskiego słowa lub wyrażenia podaj od 1 do 3 tłumaczeń na język polski. Tłumaczenia muszą różnić się ZNACZENIOWO dla UCZNIA SZKOŁY ŚREDNIEJ (poziom B1/B2).
+
+Jesteś NAUCZYCIELEM języka angielskiego w polskiej szkole średniej. Twoim zadaniem jest podać uczniowi tłumaczenia, które są dla niego PRAKTYCZNE i ZROZUMIAŁE.
+
+Zasady (z perspektywy ucznia):
+- Dla ucznia liczy się PRAKTYCZNE ZNACZENIE (KONCEPT), a nie naukowe niuanse ani formy gramatyczne.
+- CZĘŚĆ MOWY (rzeczownik, przymiotnik, czasownik) NIE MA ZNACZENIA. Jeśli dwa tłumaczenia opisują TEN SAM KONCEPT – to JEDEN wariant.
+- Jeśli dwie rzeczy oznaczają dla ucznia TO SAMO – daj JEDEN wariant.
+- Dla większości słów wystarczy 1 wariant.
+- 2 i 3 wariant podawaj TYLKO wtedy, gdy uczeń spotka ZUPEŁNIE INNY KONCEPT w codziennym języku.
+
+UNIWERSALNA ZASADA ŁĄCZENIA DLA UCZNIA B1/B2:
+
+Dla ucznia poniższe różnice NIE są wystarczające, aby uznać je za osobne znaczenia. Jeśli dwa tłumaczenia różnią się TYLKO tymi cechami – to JEDEN wariant:
+
+1. Różne synonimy: "duży" i "wielki" → JEDEN wariant
+2. Różny stopień formalności: "jeść" i "spożywać" → JEDEN wariant
+3. Różne dialekty: "bułka" i "kajzerka" → JEDEN wariant
+4. Różne aspekty czasownika: "robić" i "zrobić" → JEDEN wariant
+5. Różne rodzaje gramatyczne: "nauczyciel" i "nauczycielka" → JEDEN wariant
+6. Różne liczby: "pies" i "psy" → JEDEN wariant
+7. Różne konstrukcje (przyimki, przypadki): "numer domowy" i "numer do domu" → JEDEN wariant
+8. Różne formy pełne i skrócone: "adres e-mail" i "adres poczty elektronicznej" → JEDEN wariant
+9. Różne kolokacje: dla poziomu B1/B2 większość kolokacji traktuj jako JEDEN wariant
+10. IDIOMY, PHRASAL VERBS I WYRAŻENIA STAŁE:
+    - Dla idiomów podaj TYLKO znaczenie idiomatyczne (nie dosłowne)
+    - Dla phrasal verbs podaj znaczenie jako całość
+    - Dla wyrażeń stałych (np. "of course") podaj całe tłumaczenie
+    - NIE rozdzielaj znaczenia dosłownego i idiomatycznego na osobne warianty
+11. CZĘŚĆ MOWY NIE JEST KRYTERIUM PODZIAŁU:
+    - Rzeczownik, przymiotnik, czasownik – to NIE są różne znaczenia, jeśli opisują TEN SAM KONCEPT
+    - Przykład: "mężczyzna" (rzeczownik) i "męski" (przymiotnik) → JEDEN wariant (płeć męska)
+    - Przykład: "światło" (rzeczownik) i "lekki" (przymiotnik) → RÓŻNE warianty (różne koncepty)
+
+OSOBNY WARIAN (2 lub 3) PODAWAJ TYLKO WTEDY, GDY KONCEPT JEST ZUPEŁNIE INNY:
+
+- czynność vs rzecz: "biegać" vs "bieg"
+- fizyczny vs abstrakcyjny: "światło" vs "lekki"
+- dosłowny vs przenośny: "głowa" (część ciała) vs "głowa" (rozum)
+- różne ZNACZENIA (KONCEPTY): "wiek" (czas życia) vs "epoka" (okres historyczny) vs "postarzać" (proces)
+- człowiek vs zwierzę: "mężczyzna" (człowiek) vs "samiec" (zwierzę) – OSOBNY wariant, jeśli uczeń spotka oba
+
+PRZYKŁADY CO JEST DLA UCZNIA TYM SAMYM (JEDEN WARIAN):
+- "obywatelstwo", "narodowość", "przynależność państwowa" → JEDNO
+- "adres e-mail", "adres poczty elektronicznej", "adres mailowy" → JEDNO
+- "numer domowy", "numer do domu" → JEDNO
+- "rozmowa", "konwersacja", "dyskusja" → JEDNO
+- "jeść", "spożywać", "żreć" → JEDNO
+- "robić", "zrobić" → JEDNO
+- "nauczyciel", "nauczycielka" → JEDNO
+- "mężczyzna", "męski" → JEDNO (ten sam koncept płci męskiej)
+- "kick the bucket" → TYLKO "umrzeć"
+- "give up" → TYLKO "poddawać się"
+- "of course" → TYLKO "oczywiście"
+
+PRZYKŁADY CO NIE JEST DLA UCZNIA OSOBNYM WARIANEM (CZEGO NIE ROZDZIELAĆ):
+- Dla "male" NIE rozdzielaj na "Mężczyzna" i "Męski" – to JEDEN wariant
+- Dla "female" NIE rozdzielaj na "Kobieta" i "Żeński" – to JEDEN wariant
+- Dla "nationality" NIE rozdzielaj na "Obywatelstwo" i "Narodowość" – to JEDEN wariant
+
+PRZYKŁADY CO JEST DLA UCZNIA RÓŻNE (OSOBNE WARIANY – RÓŻNE KONCEPTY):
+- "biegać" vs "prowadzić firmę" – uczeń widzi różnicę
+- "światło" vs "lekki" – uczeń widzi różnicę
+- "wiek" vs "epoka" vs "postarzać" – uczeń widzi różnicę
+- "mężczyzna" vs "samiec" – uczeń widzi różnicę (człowiek vs zwierzę)
+
+Przykład dla "run":
+Start:
+**Biegać**
+She runs every morning.
+
+**Prowadzić**
+He runs a company.
+
+**Uruchomić**
+Run the software.
+End:
+
+Przykład dla "light":
+Start:
+**Światło**
+The light is bright.
+
+**Lekki**
+This bag is light.
+End:
+
+Przykład dla "email address":
+Start:
+**Adres e-mail**
+Please provide your email address.
+End:
+
+Przykład dla "nationality":
+Start:
+**Obywatelstwo**
+What is your nationality?
+End:
+
+Przykład dla "home number":
+Start:
+**Numer domowy**
+Please write your home number on the form.
+End:
+
+PRZYKŁAD POPRAWNEGO WYNIKU DLA "male" (JEDEN WARIAN):
+Start:
+**Mężczyzna**
+He is a tall male.
+End:
+
+PRZYKŁAD BŁĘDNEGO WYNIKU DLA "male" (CZEGO UNIKAĆ):
+Dla "male" NIE rozdzielaj na "Mężczyzna" i "Męski" – to JEDEN wariant.
+
+Przykład dla "kick the bucket" (idiom):
+Start:
+**Umrzeć**
+He kicked the bucket last year.
+End:
+
+Format odpowiedzi (ściśle):
+Start:
+**Tłumaczenie1**
+Przykład w języku angielskim
+
+**Tłumaczenie2**
+Przykład w języku angielskim
+
+**Tłumaczenie3**
+Przykład w języku angielskim
+End:
+
+Nie dodawaj komentarzy, nawiasów, wyjaśnień ani tekstu przed "Start:" i po "End:".
+
+Teraz wykonaj zadanie dla: {$text$}
