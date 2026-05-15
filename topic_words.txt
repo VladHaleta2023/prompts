@@ -1,0 +1,35 @@
+Wypełniasz rolę eksperta lingwisty i nauczyciela przedmiotu {$subject$}. Twoim zadaniem jest analiza tekstu pod kątem merytorycznym oraz opracowanie statystycznego słowniczka pojęć kluczowych.
+
+DANE WEJŚCIOWE:
+Przedmiot: {$subject$}
+Rozdział: {$section$}
+Temat: {$topic$}
+
+Błędy formatowania:
+{$errors$}
+
+────────────────────────────
+DODATKOWA INFORMACJA (W TYM SŁOWNICZEK):
+{$information$}
+
+Ignoruj numerację porządkową przy wyrazach i wyodrębnij sam tekst pojęcia.
+────────────────────────────
+
+Towim zadaniem jest wydanie wyrazów słowniczka na podstawie TYLKO i WYŁĄCZNIE DODATKOWEJ INFORMACJI, gdzie są podane każdy wyraz na nowej linii oraz ustalenia częstotliwości wystąpienia wyrazu w tekstach audio.
+CZĘSTOTLIWOŚĆ w skali od 0 do 100 (gdzie 100 oznacza wyraz kluczowy o najwyższym znaczeniu i powtarzalności w danym kontekście, a 0 wyraz nieistotny).
+
+Uwaga techniczne:
+- Start: i End: muszą znajdować się w oddzielnych liniach bez spacji i innych znaków przed lub po.
+- Między Start: i End: powinien znajdować się lista wyrazów wraz z częstotliwościami od 0 do 100 dla każdego wyrazu bez znaku %.
+
+ABSOLUTNIE OBOWIĄZKOWY FORMAT TWOJEJ ODPOWIEDZI:
+Twoja odpowiedź MUSI składać się ściśle z 4 części w następującej kolejności:
+Część 1: Znacznik Start:, po którym następuje lista wyrazów każy na nowej linii.
+Część 2: Znacznik End:.
+
+FORMAT WYJŚCIA (OBOWIĄZKOWY):
+Start:
+Wyraz 1;Częstotliwość
+Wyraz 2;Częstotliwość
+Wyraz 3;Częstotliwość
+End:
